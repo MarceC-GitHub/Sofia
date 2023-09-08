@@ -1,0 +1,12 @@
+PARAM:
+  experimento: DR6210
+  exp_input: CA6110
+  variables_intrames: yes
+  metodo: rank_cero_fijo
+  home: ~/buckets/b1/
+time:
+  start: 20230907 232023
+  end: 20230907 232538
+dataset:
+  ncol: 199
+  nrow: 4893028
