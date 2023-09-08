@@ -1,0 +1,11 @@
+PARAM:
+  experimento: CA6110
+  dataset: ./datasets/competencia_2023.csv.gz
+  metodo: MachineLearning
+  home: ~/buckets/b1/
+time:
+  start: 20230907 230229
+  end: 20230907 230428
+dataset:
+  ncol: 154
+  nrow: 4893028
