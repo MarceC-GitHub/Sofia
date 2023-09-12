@@ -1,0 +1,12 @@
+PARAM:
+  experimento: DR6211
+  exp_input: CA6111
+  variables_intrames: yes
+  metodo: deflacion
+  home: ~/buckets/b1/
+time:
+  start: 20230911 213727
+  end: 20230911 214130
+dataset:
+  ncol: 199
+  nrow: 4893028
