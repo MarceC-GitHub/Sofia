@@ -1,0 +1,5 @@
+experimento: DR6212
+exp_input: CA6112
+variables_intrames: yes
+metodo: rank_cero_fijo
+home: ~/buckets/b1/
