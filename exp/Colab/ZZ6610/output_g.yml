@@ -1,0 +1,27 @@
+PARAM:
+  experimento: cZZ6610
+  exp_input: cHT6510
+  version: g
+  modelos_rank: 1.0
+  semillas:
+  - 123457.0
+  - 150523.0
+  - 370003.0
+  - 737797.0
+  - 910003.0
+  kaggle:
+    envios_desde: 9500
+    envios_hasta: 11500
+    envios_salto: 500
+  graficar:
+    envios_desde: 8000
+    envios_hasta: 20000
+    ventana_suavizado: 2001
+  home: ~/buckets/b1/
+time:
+  start: 20230920 030607
+  end: 20230920 082257
+status:
+  modelo_rank: 1.0
+  sem: 5
+ganancias_suavizadas: 1.2442993e+08
