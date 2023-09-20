@@ -1,0 +1,3 @@
+version	modelo_rank	vsemilla
+k	1	123457
+k	1	150523
